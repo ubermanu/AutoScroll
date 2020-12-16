@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "dragThreshold": {
+      "type": "integer"
+    },
+    "moveThreshold": {
+      "type": "integer"
+    },
+    "moveSpeed": {
+      "type": "integer"
+    },
+    "stickyScroll": {
+      "type": "boolean"
+    },
+    "innerScroll": {
+      "type": "boolean"
+    },
+    "scrollOnLinks": {
+      "type": "boolean"
+    },
+    "sameSpeed": {
+      "type": "boolean"
+    },
+    "capSpeed": {
+      "type": "integer"
+    },
+    "shouldCap": {
+      "type": "boolean"
+    },
+    "ctrlClick": {
+      "type": "boolean"
+    },
+    "middleClick": {
+      "type": "boolean"
+    }
+  }
+}
