@@ -3,7 +3,7 @@
   "name": "AutoScroll",
   "version": "6.0",
   "description": "This extension adds customizable autoscroll support to Chrome.",
-  "minimum_chrome_version": "29",
+  "minimum_chrome_version": "88",
   "icons": {
     "128": "icons/icon128.png",
     "16": "icons/icon16.png",
