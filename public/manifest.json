@@ -16,12 +16,6 @@
   "storage": {
     "managed_schema": "schema.json"
   },
-  "background": {
-    "scripts": [
-      "background.js"
-    ],
-    "persistent": false
-  },
   "options_page": "options_page.html",
   "content_scripts": [
     {
